@@ -1,0 +1,35 @@
+
+#formcontrol{
+    min-width: 300px;
+}
+
+
+#form-control{
+    min-width: 300px;
+}
+#add{
+    margin: 10px;
+}
+
+.client-form{
+    display: flex;
+   
+}
+#outlined-basic{
+    padding: 20px;
+   
+}
+h1{
+    text-align: center;
+}
+.icon-delete{
+    right: 50px;
+}
+#btn{
+    padding-top: 10px;
+    margin: 10px;
+}
+
+#add-btn{
+    margin: 20px;
+}
